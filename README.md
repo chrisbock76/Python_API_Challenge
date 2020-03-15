@@ -13,12 +13,13 @@ Analysis
 4. Hotels were found nearest the ocean shorelines, save for one in Niger.  This is likely due to the temperature range selected as well as no cloudiness
 
 
-Homework06
+
+# Homework06 - Instructions
 
 
 
 
-Part I - WeatherPy
+# Part I - WeatherPy
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 Your first objective is to build a series of scatter plots to showcase the following relationships:
 
@@ -48,7 +49,7 @@ Include a print log of each city as it's being processed with the city number an
 Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
 
-Part II - VacationPy
+# Part II - VacationPy
 Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
 
